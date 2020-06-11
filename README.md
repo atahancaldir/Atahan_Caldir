@@ -1,5 +1,5 @@
 # projects
-personal projects by Atahan Caldir
+Personal projects by Atahan Çaldır
 
 Most of these projects are made many years ago.
 
